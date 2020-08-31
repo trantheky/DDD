@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Ecommerce
+/OrderManagement/bin/Debug/netcoreapp3.1
+/OrderManagement/obj
+/OrderManagement.Application/obj
+/OrderManagement.Application/bin/Debug/netcoreapp3.1
+/OrderManagement.Domain/obj
+/OrderManagement.Domain/bin/Debug/netcoreapp3.1
+/OrderManagement.Infrastructure/obj
+/OrderManagement.Infrastructure/bin/Debug/netcoreapp3.1
